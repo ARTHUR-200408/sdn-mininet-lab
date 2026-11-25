@@ -2,7 +2,7 @@
 
 A hands-on personal project in which I built and tested a small Software-Defined Network (SDN) on Kali Linux: one OpenFlow switch, two hosts and a controller. I used Mininet and Open vSwitch, confirmed the hosts could communicate with 0% packet loss, and read the flow rules the controller installed in the switch.
 
-**Author:** ITA ARTHUR OLUWAPELMI · **Date:** November 2026
+**Author:** ITA ARTHUR OLUWAPELMI · **Date:** 25th November 2026
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-VirtualBox-557C94?logo=kalilinux&logoColor=white)
 ![Mininet](https://img.shields.io/badge/Mininet-2.3.0-blue)
